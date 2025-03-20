@@ -1,6 +1,43 @@
+##   Hello, I'm Laura Almeida - @oddlauraink 👋
+<br>
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=1BC53B&height=50&lines=echo+%22Ol%C3%A1%2C+mundo!%22&center=true" alt="Typing" />
+</p>
+
+- 👨‍💻 <samp>I'm a **24 year old woman** from **Brazil** 🇧🇷</samp>
+
+- 📚 <samp> Nowadays studying **Data Science**, focusing on **database creation with sqlite and mysql**</samp>
+ 
+- 💻 <samp>I love to develop intelligent automations and tools to improve the **quality of life** for humans!</samp>
+
+
 <div align="center">
   <img height="35" src="https://media.giphy.com/media/Tl7sK6IaEQdVcCVD7i/giphy.gif?cid=ecf05e47ebk0nd85t9wzjt7tj08exl5ibs8v4vwcx00ijghp&ep=v1_stickers_related&rid=giphy.gif&ct=ts"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+</div>
+
 
 ###
 
