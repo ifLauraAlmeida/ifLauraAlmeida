@@ -8,6 +8,8 @@
 - 👨‍💻 <samp>I'm a **24 year old woman** from **Brazil** 🇧🇷</samp>
 
 - 📚 <samp> Nowadays studying **Data Science**, focusing on **database creation with sqlite and mysql**</samp>
+
+- 😍 <samp>I choose **Data Science** to iniciate my transition career!</samp>
  
 - 💻 <samp>I love to develop intelligent automations and tools to improve the **quality of life** for humans!</samp>
 
