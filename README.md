@@ -1,48 +1,65 @@
-##   Hello, I'm Laura Almeida - @oddlauraink 👋
-<br>
-<br>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=1BC53B&height=50&lines=echo+%22Ol%C3%A1%2C+mundo!%22&center=true" alt="Typing" />
-</p>
-
-- 👨‍💻 <samp>I'm a **25 woman** from **Brazil** 🇧🇷</samp>
-
-- 📚 <samp> Nowadays studying **Data Science**, focusing on **database creation with sqlite and mysql**</samp>
-
-- 😍 <samp>I choose **Data Science** to iniciate my transition career!</samp>
- 
-- 💻 <samp>I love to develop intelligent automations and tools to improve the **quality of life** for humans!</samp>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Hey, i'm Laura Almeida :D&fontAlign=23&fontSize=30&desc= Co-founder%20 of Dados Por Todos Community&descAlign=75&descAlignY=50&theme=radical&animation=fadeIn" />
 <div align="center">
   <img height="35" src="https://media.giphy.com/media/Tl7sK6IaEQdVcCVD7i/giphy.gif?cid=ecf05e47ebk0nd85t9wzjt7tj08exl5ibs8v4vwcx00ijghp&ep=v1_stickers_related&rid=giphy.gif&ct=ts"  />
 </div>
+<br>
+
+- 👩‍💻 <samp>I'm a **24-year-old woman** from **Brazil** 🇧🇷, transitioning into **Data Science**.</samp>
+
+- 📊 <samp>Building **CRUD systems, ETL pipelines, and data processing workflows** using **Python, SQLite, MySQL, and real-world datasets** from **health, education, and IBGE sources**</samp>
+
+- 🌐 <samp>Learning in **web scraping** with **BeautifulSoup and Selenium**, **REST API** integration, and **automation of data collection, cleaning, and transformation**</samp>
+
+- 📈 <samp>Developing **dashboards and data visualizations using Looker, Streamlit, Jupyter Notebooks, Matplotlib, and Power BI**, integrating data from **Google Workspace Forms and Sheets**</samp>
+
+- 💻 <samp>Learning **full-stack basics** (**HTML & React**) to improve **data extraction** and **exploring end-to-end platforms** like **Nekt to streamline pipelines**</samp>
+
+- 🤖 <samp>Passionate about **creating intelligent automations and tools** that **improve quality** of life and **decision-making through data**</samp>
+
 
 ###
-
+<div align="center">
+<h2> Skills</h2>
+</div>
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  /> 
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <h4> Productivity and Organization <h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/960px-Notion-logo.svg.png" height="40" alt="notion logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <h4> Google <h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" height="40" alt="colab logo" />    
+  <img src="https://static.wikia.nocookie.net/logopedia/images/e/e1/Looker_icon.svg/revision/latest/scale-to-width-down/250?cb=20250205115142" height="40" alt="looker logo" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Google_Forms_2020_Logo.svg/1920px-Google_Forms_2020_Logo.svg.png" height="40" alt="forms logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTk9PUySQ1yUSsODDs8xkB40hMP5DJFQ_R2Q&s" height="40" alt="keep logo" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/500px-Google_Sheets_logo_%282014-2020%29.svg.png" height="40" alt="sheets logo" />
+  <div align="center">
+<h2> Learning</h2>
+</div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />    
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/250px-New_Power_BI_Logo.svg.png" height="40" alt="powerbi logo"  />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="45" alt="postgree logo"  />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height="50" alt="html5 logo"  />    
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9SNf5Pw1uV7GxPm_MUmbwg-mOCql2cWlsLw&s" height="40" alt="selenium logo"  />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png" height="40" alt="react logo"  />
+  <img width="12" />  
+  <h4> Platforms<h4>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgiY836TKw8nNc890YNzvDybEbBlCDHLLoQ&s" height="40" alt="nekt logo" />
+</div>
+
 </div>
 
 
