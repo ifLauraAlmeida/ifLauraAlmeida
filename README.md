@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&text=Hey, i'm Laura Almeida :D&fontAlign=23&fontSize=30&desc= Co-founder%20 of Dados Por Todos Community&descAlign=75&descAlignY=50&theme=radical&animation=fadeIn" />
+<div align="center">
+<h3> Hello, I'm Laura Almeida - Data Analyst and Co-Founder of Dados Por Todos 👋</h3>
+</div>
+<br>
 <div align="center">
   <img height="35" src="https://media.giphy.com/media/Tl7sK6IaEQdVcCVD7i/giphy.gif?cid=ecf05e47ebk0nd85t9wzjt7tj08exl5ibs8v4vwcx00ijghp&ep=v1_stickers_related&rid=giphy.gif&ct=ts"  />
 </div>
